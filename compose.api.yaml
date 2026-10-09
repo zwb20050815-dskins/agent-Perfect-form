@@ -1,0 +1,49 @@
+# 与compose.redis.yaml一起使用，沿用同一个Redis服务与数据卷。
+services:
+  api:
+    image: knowledge-agent-api:lesson10b
+    build:
+      context: .
+      dockerfile: Dockerfile
+    init: true
+    restart: unless-stopped
+    stop_grace_period: 5m
+    depends_on:
+      redis:
+        condition: service_healthy
+    environment:
+      # 容器通过Compose服务名找Redis；覆盖.env里的本机地址。
+      REDIS_URL: redis://redis:6379/0
+    ports:
+      - "127.0.0.1:8001:8000"
+    volumes:
+      - type: bind
+        source: ./.env
+        target: /app/.env
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./data/chunks
+        target: /app/data/chunks
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./data/vectors
+        target: /app/data/vectors
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./skills
+        target: /app/skills
+        read_only: true
+        bind:
+          create_host_path: false
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3).close()"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+      start_period: 20s
