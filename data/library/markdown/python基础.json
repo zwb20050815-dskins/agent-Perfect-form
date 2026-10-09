@@ -1,0 +1,93 @@
+{
+  "source_file": "python基础.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\python基础.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 989,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 2,
+      "text_characters": 366,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 3,
+      "text_characters": 834,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 4,
+      "text_characters": 72,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 5,
+      "text_characters": 992,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 6,
+      "text_characters": 336,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 7,
+      "text_characters": 479,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 8,
+      "text_characters": 748,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 9,
+      "text_characters": 778,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 10,
+      "text_characters": 450,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 11,
+      "text_characters": 430,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 12,
+      "text_characters": 586,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    }
+  ],
+  "chunks": 20,
+  "source_sha256": "6eed7f67dd972621d2d68d14556430b5577903352b9ca2e136183f4fdc94569f"
+}

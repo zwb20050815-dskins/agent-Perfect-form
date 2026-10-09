@@ -1,0 +1,72 @@
+{
+  "source_file": "django.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\django.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 649,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 2,
+      "text_characters": 1264,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 3,
+      "text_characters": 1306,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 4,
+      "text_characters": 1564,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 5,
+      "text_characters": 1370,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 6,
+      "text_characters": 1389,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 7,
+      "text_characters": 1069,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 8,
+      "text_characters": 108,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 9,
+      "text_characters": 118,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    }
+  ],
+  "chunks": 30,
+  "source_sha256": "a4e3ad894eb7525c20210d4cbdcd574026c68d94db22bf64e9c4b8b78ae059bb"
+}

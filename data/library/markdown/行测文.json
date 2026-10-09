@@ -1,0 +1,177 @@
+{
+  "source_file": "行测文.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\行测文.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 357,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 2,
+      "text_characters": 3,
+      "images": 2,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 3,
+      "text_characters": 77,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 4,
+      "text_characters": 124,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 5,
+      "text_characters": 202,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 6,
+      "text_characters": 100,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 7,
+      "text_characters": 108,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 8,
+      "text_characters": 39,
+      "images": 2,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 9,
+      "text_characters": 103,
+      "images": 5,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 10,
+      "text_characters": 16,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 11,
+      "text_characters": 299,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 12,
+      "text_characters": 19,
+      "images": 2,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 13,
+      "text_characters": 298,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 14,
+      "text_characters": 288,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 15,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 16,
+      "text_characters": 271,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 17,
+      "text_characters": 19,
+      "images": 2,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 18,
+      "text_characters": 142,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 19,
+      "text_characters": 22,
+      "images": 2,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 20,
+      "text_characters": 57,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 21,
+      "text_characters": 307,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 22,
+      "text_characters": 518,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 23,
+      "text_characters": 262,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 24,
+      "text_characters": 216,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    }
+  ],
+  "chunks": 24,
+  "source_sha256": "77132fc055e3768c54e56e776d8ffffa89da11594bc9731c7b5260ceff86bed2"
+}

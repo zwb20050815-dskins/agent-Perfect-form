@@ -1,0 +1,30 @@
+{
+  "source_file": "接口.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\接口.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 258,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 2,
+      "text_characters": 189,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 3,
+      "text_characters": 327,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    }
+  ],
+  "chunks": 3,
+  "source_sha256": "d041dec8361ee783e48cea205dd4b5c7d22647076ba9baa304c90ff5940b888e"
+}

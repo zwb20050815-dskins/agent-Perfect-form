@@ -1,0 +1,47 @@
+{
+  "title": "经济学重点笔记",
+  "source_file": "银行经济学重点笔记.html",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\银行经济学重点笔记.html",
+  "source_sha256": "68d1e759e0a4846e4fbf5e220f6be90c496799542e3f70a82e86b40b9b305df0",
+  "sections": [
+    {
+      "title": "第一部分 · 微观经济学 研究单个消费者、单个企业怎么决策，以及价格怎么形成",
+      "anchor": "part-micro"
+    },
+    {
+      "title": "A1 · 需求与供给　均衡价格 经济学最基础的“买菜模型”",
+      "anchor": "ch1"
+    },
+    {
+      "title": "A2 · 弹性理论　恩格尔系数 看“价格一变，大家反应有多大”",
+      "anchor": "ch2"
+    },
+    {
+      "title": "A3 · 成本与利润理论 企业算账的“家底”",
+      "anchor": "ch3"
+    },
+    {
+      "title": "A4 · 市场结构与市场失灵 钱都去哪儿了 & 市场哪些时候失灵",
+      "anchor": "ch4"
+    },
+    {
+      "title": "第二部分 · 宏观经济学 看整个国家经济如何运行、政府怎么调控",
+      "anchor": "part-macro"
+    },
+    {
+      "title": "B1 · GDP 与国民收入核算 国家富不富，先看GDP",
+      "anchor": "ch5"
+    },
+    {
+      "title": "B2 · 宏观经济政策（财政 / 货币） 政府掌控经济的两只手",
+      "anchor": "ch6"
+    },
+    {
+      "title": "B3 · 失业与通货膨胀 经济的“头疼”与“发烧”",
+      "anchor": "ch7"
+    }
+  ],
+  "table_count": 17,
+  "image_count": 0,
+  "images": []
+}

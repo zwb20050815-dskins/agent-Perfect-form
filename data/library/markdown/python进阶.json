@@ -1,0 +1,100 @@
+{
+  "source_file": "python进阶.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\python进阶.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 510,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 2,
+      "text_characters": 861,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 3,
+      "text_characters": 662,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 4,
+      "text_characters": 534,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 5,
+      "text_characters": 841,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 6,
+      "text_characters": 757,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 7,
+      "text_characters": 0,
+      "images": 0,
+      "low_text": true,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 8,
+      "text_characters": 1,
+      "images": 0,
+      "low_text": true,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 9,
+      "text_characters": 911,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 10,
+      "text_characters": 1307,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 11,
+      "text_characters": 595,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 12,
+      "text_characters": 1441,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 13,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    }
+  ],
+  "chunks": 23,
+  "source_sha256": "50d6b067a5bb5b6bba2952044b2a75012422301a665d8c44d7b768c0c14aa6a7"
+}

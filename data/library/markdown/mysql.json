@@ -1,0 +1,205 @@
+{
+  "source_file": "mysql.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\mysql.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 126,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 2,
+      "text_characters": 420,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 3,
+      "text_characters": 113,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 4,
+      "text_characters": 188,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 5,
+      "text_characters": 204,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 6,
+      "text_characters": 9,
+      "images": 3,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 7,
+      "text_characters": 298,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 8,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 9,
+      "text_characters": 142,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 10,
+      "text_characters": 164,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 11,
+      "text_characters": 55,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 12,
+      "text_characters": 236,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 13,
+      "text_characters": 357,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 14,
+      "text_characters": 72,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 15,
+      "text_characters": 387,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 16,
+      "text_characters": 80,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 17,
+      "text_characters": 20,
+      "images": 3,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 18,
+      "text_characters": 96,
+      "images": 6,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 19,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 20,
+      "text_characters": 338,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 21,
+      "text_characters": 354,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 22,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 23,
+      "text_characters": 602,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 24,
+      "text_characters": 657,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 25,
+      "text_characters": 423,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 26,
+      "text_characters": 260,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 27,
+      "text_characters": 692,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 28,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    }
+  ],
+  "chunks": 27,
+  "source_sha256": "e8252d13708010bc23eb2cf94653580276f86f4f0c213ea0a666fe1d7bb3e0a2"
+}

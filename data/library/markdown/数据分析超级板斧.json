@@ -1,0 +1,149 @@
+{
+  "source_file": "数据分析超级板斧.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\数据分析超级板斧.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 253,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 2,
+      "text_characters": 877,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 3,
+      "text_characters": 82,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 4,
+      "text_characters": 149,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 5,
+      "text_characters": 65,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 6,
+      "text_characters": 23,
+      "images": 3,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 7,
+      "text_characters": 664,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 8,
+      "text_characters": 638,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 9,
+      "text_characters": 667,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 10,
+      "text_characters": 270,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 11,
+      "text_characters": 108,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 12,
+      "text_characters": 94,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 13,
+      "text_characters": 54,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 14,
+      "text_characters": 141,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 15,
+      "text_characters": 56,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 16,
+      "text_characters": 92,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 17,
+      "text_characters": 130,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 18,
+      "text_characters": 76,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 19,
+      "text_characters": 8,
+      "images": 3,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 20,
+      "text_characters": 343,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    }
+  ],
+  "chunks": 25,
+  "source_sha256": "af3ab4150ae3d158632f2302d55058bd5c729ec63978327d9f22c1cb9d5054cf"
+}

@@ -1,0 +1,240 @@
+{
+  "source_file": "行测理.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\行测理.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 326,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 2,
+      "text_characters": 248,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 3,
+      "text_characters": 206,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 4,
+      "text_characters": 498,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 5,
+      "text_characters": 92,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 6,
+      "text_characters": 228,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 7,
+      "text_characters": 305,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 8,
+      "text_characters": 206,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 9,
+      "text_characters": 129,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 10,
+      "text_characters": 47,
+      "images": 2,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 11,
+      "text_characters": 212,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 12,
+      "text_characters": 292,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 13,
+      "text_characters": 92,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 14,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 15,
+      "text_characters": 196,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 16,
+      "text_characters": 156,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 17,
+      "text_characters": 37,
+      "images": 2,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 18,
+      "text_characters": 315,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 19,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 20,
+      "text_characters": 252,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 21,
+      "text_characters": 168,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 22,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 23,
+      "text_characters": 230,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 24,
+      "text_characters": 169,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 25,
+      "text_characters": 242,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 26,
+      "text_characters": 65,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 27,
+      "text_characters": 470,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 28,
+      "text_characters": 223,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 29,
+      "text_characters": 365,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 30,
+      "text_characters": 664,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 31,
+      "text_characters": 358,
+      "images": 4,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 32,
+      "text_characters": 429,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 33,
+      "text_characters": 145,
+      "images": 5,
+      "low_text": false,
+      "needs_ocr_review": true
+    }
+  ],
+  "chunks": 32,
+  "source_sha256": "f14ce341fc1e1b5c2ec029e0ce06ab1300ecafe498923bcce60358457b5f6904"
+}

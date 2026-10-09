@@ -1,0 +1,44 @@
+{
+  "source_file": "大模型.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\大模型.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 657,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 2,
+      "text_characters": 81,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 3,
+      "text_characters": 284,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 4,
+      "text_characters": 211,
+      "images": 5,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 5,
+      "text_characters": 275,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    }
+  ],
+  "chunks": 6,
+  "source_sha256": "d549deb95cb63cf70a34d3d8ea6e7a08a0342a117b547fb5489229cc715d9716"
+}

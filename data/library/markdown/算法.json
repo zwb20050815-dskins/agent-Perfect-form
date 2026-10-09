@@ -1,0 +1,198 @@
+{
+  "source_file": "算法.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\算法.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 253,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 2,
+      "text_characters": 271,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 3,
+      "text_characters": 80,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 4,
+      "text_characters": 682,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 5,
+      "text_characters": 381,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 6,
+      "text_characters": 455,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 7,
+      "text_characters": 95,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 8,
+      "text_characters": 158,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 9,
+      "text_characters": 13,
+      "images": 3,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 10,
+      "text_characters": 96,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 11,
+      "text_characters": 68,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 12,
+      "text_characters": 412,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 13,
+      "text_characters": 425,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 14,
+      "text_characters": 172,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 15,
+      "text_characters": 259,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 16,
+      "text_characters": 120,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 17,
+      "text_characters": 120,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 18,
+      "text_characters": 582,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 19,
+      "text_characters": 253,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 20,
+      "text_characters": 170,
+      "images": 3,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 21,
+      "text_characters": 43,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 22,
+      "text_characters": 307,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 23,
+      "text_characters": 369,
+      "images": 2,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 24,
+      "text_characters": 0,
+      "images": 1,
+      "low_text": true,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 25,
+      "text_characters": 440,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 26,
+      "text_characters": 261,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 27,
+      "text_characters": 609,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    }
+  ],
+  "chunks": 29,
+  "source_sha256": "14848f3396b87995555b0b379d8ae26bbfa80902d5f69f6ef9ff5fe94248d40f"
+}

@@ -1,0 +1,44 @@
+{
+  "source_file": "linux.pdf",
+  "source_path": "C:\\Users\\Zwb\\Desktop\\笔记\\linux.pdf",
+  "format": "pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 715,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 2,
+      "text_characters": 1262,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 3,
+      "text_characters": 298,
+      "images": 1,
+      "low_text": false,
+      "needs_ocr_review": true
+    },
+    {
+      "page": 4,
+      "text_characters": 878,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    },
+    {
+      "page": 5,
+      "text_characters": 166,
+      "images": 0,
+      "low_text": false,
+      "needs_ocr_review": false
+    }
+  ],
+  "chunks": 9,
+  "source_sha256": "059771d2f9967723e4eb4bef62bfb3c235f5aec122f6e8830fdeb0b2ac3dd9ea"
+}
